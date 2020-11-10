@@ -1,0 +1,13 @@
+body {
+    background-color: #464646;
+    color: white;
+    padding: 20px;
+}
+a { 
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    border: 2px solid;
+    border-radius: 7px;
+    background-color: #898989;
+}
